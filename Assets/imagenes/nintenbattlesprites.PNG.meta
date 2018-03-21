@@ -1,0 +1,6042 @@
+fileFormatVersion: 2
+guid: a4f55d5d86f0bde40881fccf326ab693
+timeCreated: 1485820775
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nintenbattlesprites_0
+    21300002: nintenbattlesprites_1
+    21300004: nintenbattlesprites_2
+    21300006: nintenbattlesprites_3
+    21300008: nintenbattlesprites_4
+    21300010: nintenbattlesprites_5
+    21300012: nintenbattlesprites_6
+    21300014: nintenbattlesprites_7
+    21300016: nintenbattlesprites_8
+    21300018: nintenbattlesprites_9
+    21300020: nintenbattlesprites_10
+    21300022: nintenbattlesprites_11
+    21300024: nintenbattlesprites_12
+    21300026: nintenbattlesprites_13
+    21300028: nintenbattlesprites_14
+    21300030: nintenbattlesprites_15
+    21300032: nintenbattlesprites_16
+    21300034: nintenbattlesprites_17
+    21300036: nintenbattlesprites_18
+    21300038: nintenbattlesprites_19
+    21300040: nintenbattlesprites_20
+    21300042: nintenbattlesprites_21
+    21300044: nintenbattlesprites_22
+    21300046: nintenbattlesprites_23
+    21300048: nintenbattlesprites_24
+    21300050: nintenbattlesprites_25
+    21300052: nintenbattlesprites_26
+    21300054: nintenbattlesprites_27
+    21300056: nintenbattlesprites_28
+    21300058: nintenbattlesprites_29
+    21300060: nintenbattlesprites_30
+    21300062: nintenbattlesprites_31
+    21300064: nintenbattlesprites_32
+    21300066: nintenbattlesprites_33
+    21300068: nintenbattlesprites_34
+    21300070: nintenbattlesprites_35
+    21300072: nintenbattlesprites_36
+    21300074: nintenbattlesprites_37
+    21300076: nintenbattlesprites_38
+    21300078: nintenbattlesprites_39
+    21300080: nintenbattlesprites_40
+    21300082: nintenbattlesprites_41
+    21300084: nintenbattlesprites_42
+    21300086: nintenbattlesprites_43
+    21300088: nintenbattlesprites_44
+    21300090: nintenbattlesprites_45
+    21300092: nintenbattlesprites_46
+    21300094: nintenbattlesprites_47
+    21300096: nintenbattlesprites_48
+    21300098: nintenbattlesprites_49
+    21300100: nintenbattlesprites_50
+    21300102: nintenbattlesprites_51
+    21300104: nintenbattlesprites_52
+    21300106: nintenbattlesprites_53
+    21300108: nintenbattlesprites_54
+    21300110: nintenbattlesprites_55
+    21300112: nintenbattlesprites_56
+    21300114: nintenbattlesprites_57
+    21300116: nintenbattlesprites_58
+    21300118: nintenbattlesprites_59
+    21300120: nintenbattlesprites_60
+    21300122: nintenbattlesprites_61
+    21300124: nintenbattlesprites_62
+    21300126: nintenbattlesprites_63
+    21300128: nintenbattlesprites_64
+    21300130: nintenbattlesprites_65
+    21300132: nintenbattlesprites_66
+    21300134: nintenbattlesprites_67
+    21300136: nintenbattlesprites_68
+    21300138: nintenbattlesprites_69
+    21300140: nintenbattlesprites_70
+    21300142: nintenbattlesprites_71
+    21300144: nintenbattlesprites_72
+    21300146: nintenbattlesprites_73
+    21300148: nintenbattlesprites_74
+    21300150: nintenbattlesprites_75
+    21300152: nintenbattlesprites_76
+    21300154: nintenbattlesprites_77
+    21300156: nintenbattlesprites_78
+    21300158: nintenbattlesprites_79
+    21300160: nintenbattlesprites_80
+    21300162: nintenbattlesprites_81
+    21300164: nintenbattlesprites_82
+    21300166: nintenbattlesprites_83
+    21300168: nintenbattlesprites_84
+    21300170: nintenbattlesprites_85
+    21300172: nintenbattlesprites_86
+    21300174: nintenbattlesprites_87
+    21300176: nintenbattlesprites_88
+    21300178: nintenbattlesprites_89
+    21300180: nintenbattlesprites_90
+    21300182: nintenbattlesprites_91
+    21300184: nintenbattlesprites_92
+    21300186: nintenbattlesprites_93
+    21300188: nintenbattlesprites_94
+    21300190: nintenbattlesprites_95
+    21300192: nintenbattlesprites_96
+    21300194: nintenbattlesprites_97
+    21300196: nintenbattlesprites_98
+    21300198: nintenbattlesprites_99
+    21300200: nintenbattlesprites_100
+    21300202: nintenbattlesprites_101
+    21300204: nintenbattlesprites_102
+    21300206: nintenbattlesprites_103
+    21300208: nintenbattlesprites_104
+    21300210: nintenbattlesprites_105
+    21300212: nintenbattlesprites_106
+    21300214: nintenbattlesprites_107
+    21300216: nintenbattlesprites_108
+    21300218: nintenbattlesprites_109
+    21300220: nintenbattlesprites_110
+    21300222: nintenbattlesprites_111
+    21300224: nintenbattlesprites_112
+    21300226: nintenbattlesprites_113
+    21300228: nintenbattlesprites_114
+    21300230: nintenbattlesprites_115
+    21300232: nintenbattlesprites_116
+    21300234: nintenbattlesprites_117
+    21300236: nintenbattlesprites_118
+    21300238: nintenbattlesprites_119
+    21300240: nintenbattlesprites_120
+    21300242: nintenbattlesprites_121
+    21300244: nintenbattlesprites_122
+    21300246: nintenbattlesprites_123
+    21300248: nintenbattlesprites_124
+    21300250: nintenbattlesprites_125
+    21300252: nintenbattlesprites_126
+    21300254: nintenbattlesprites_127
+    21300256: nintenbattlesprites_128
+    21300258: nintenbattlesprites_129
+    21300260: nintenbattlesprites_130
+    21300262: nintenbattlesprites_131
+    21300264: nintenbattlesprites_132
+    21300266: nintenbattlesprites_133
+    21300268: nintenbattlesprites_134
+    21300270: nintenbattlesprites_135
+    21300272: nintenbattlesprites_136
+    21300274: nintenbattlesprites_137
+    21300276: nintenbattlesprites_138
+    21300278: nintenbattlesprites_139
+    21300280: nintenbattlesprites_140
+    21300282: nintenbattlesprites_141
+    21300284: nintenbattlesprites_142
+    21300286: nintenbattlesprites_143
+    21300288: nintenbattlesprites_144
+    21300290: nintenbattlesprites_145
+    21300292: nintenbattlesprites_146
+    21300294: nintenbattlesprites_147
+    21300296: nintenbattlesprites_148
+    21300298: nintenbattlesprites_149
+    21300300: nintenbattlesprites_150
+    21300302: nintenbattlesprites_151
+    21300304: nintenbattlesprites_152
+    21300306: nintenbattlesprites_153
+    21300308: nintenbattlesprites_154
+    21300310: nintenbattlesprites_155
+    21300312: nintenbattlesprites_156
+    21300314: nintenbattlesprites_157
+    21300316: nintenbattlesprites_158
+    21300318: nintenbattlesprites_159
+    21300320: nintenbattlesprites_160
+    21300322: nintenbattlesprites_161
+    21300324: nintenbattlesprites_162
+    21300326: nintenbattlesprites_163
+    21300328: nintenbattlesprites_164
+    21300330: nintenbattlesprites_165
+    21300332: nintenbattlesprites_166
+    21300334: nintenbattlesprites_167
+    21300336: nintenbattlesprites_168
+    21300338: nintenbattlesprites_169
+    21300340: nintenbattlesprites_170
+    21300342: nintenbattlesprites_171
+    21300344: nintenbattlesprites_172
+    21300346: nintenbattlesprites_173
+    21300348: nintenbattlesprites_174
+    21300350: nintenbattlesprites_175
+    21300352: nintenbattlesprites_176
+    21300354: nintenbattlesprites_177
+    21300356: nintenbattlesprites_178
+    21300358: nintenbattlesprites_179
+    21300360: nintenbattlesprites_180
+    21300362: nintenbattlesprites_181
+    21300364: nintenbattlesprites_182
+    21300366: nintenbattlesprites_183
+    21300368: nintenbattlesprites_184
+    21300370: nintenbattlesprites_185
+    21300372: nintenbattlesprites_186
+    21300374: nintenbattlesprites_187
+    21300376: nintenbattlesprites_188
+    21300378: nintenbattlesprites_189
+    21300380: nintenbattlesprites_190
+    21300382: nintenbattlesprites_191
+    21300384: nintenbattlesprites_192
+    21300386: nintenbattlesprites_193
+    21300388: nintenbattlesprites_194
+    21300390: nintenbattlesprites_195
+    21300392: nintenbattlesprites_196
+    21300394: nintenbattlesprites_197
+    21300396: nintenbattlesprites_198
+    21300398: nintenbattlesprites_199
+    21300400: nintenbattlesprites_200
+    21300402: nintenbattlesprites_201
+    21300404: nintenbattlesprites_202
+    21300406: nintenbattlesprites_203
+    21300408: nintenbattlesprites_204
+    21300410: nintenbattlesprites_205
+    21300412: nintenbattlesprites_206
+    21300414: nintenbattlesprites_207
+    21300416: nintenbattlesprites_208
+    21300418: nintenbattlesprites_209
+    21300420: nintenbattlesprites_210
+    21300422: nintenbattlesprites_211
+    21300424: nintenbattlesprites_212
+    21300426: nintenbattlesprites_213
+    21300428: nintenbattlesprites_214
+    21300430: nintenbattlesprites_215
+    21300432: nintenbattlesprites_216
+    21300434: nintenbattlesprites_217
+    21300436: nintenbattlesprites_218
+    21300438: nintenbattlesprites_219
+    21300440: nintenbattlesprites_220
+    21300442: nintenbattlesprites_221
+    21300444: nintenbattlesprites_222
+    21300446: nintenbattlesprites_223
+    21300448: nintenbattlesprites_224
+    21300450: nintenbattlesprites_225
+    21300452: nintenbattlesprites_226
+    21300454: nintenbattlesprites_227
+    21300456: nintenbattlesprites_228
+    21300458: nintenbattlesprites_229
+    21300460: nintenbattlesprites_230
+    21300462: nintenbattlesprites_231
+    21300464: nintenbattlesprites_232
+    21300466: nintenbattlesprites_233
+    21300468: nintenbattlesprites_234
+    21300470: nintenbattlesprites_235
+    21300472: nintenbattlesprites_236
+    21300474: nintenbattlesprites_237
+    21300476: nintenbattlesprites_238
+    21300478: nintenbattlesprites_239
+    21300480: nintenbattlesprites_240
+    21300482: nintenbattlesprites_241
+    21300484: nintenbattlesprites_242
+    21300486: nintenbattlesprites_243
+    21300488: nintenbattlesprites_244
+    21300490: nintenbattlesprites_245
+    21300492: nintenbattlesprites_246
+    21300494: nintenbattlesprites_247
+    21300496: nintenbattlesprites_248
+    21300498: nintenbattlesprites_249
+    21300500: nintenbattlesprites_250
+    21300502: nintenbattlesprites_251
+    21300504: nintenbattlesprites_252
+    21300506: nintenbattlesprites_253
+    21300508: nintenbattlesprites_254
+    21300510: nintenbattlesprites_255
+    21300512: nintenbattlesprites_256
+    21300514: nintenbattlesprites_257
+    21300516: nintenbattlesprites_258
+    21300518: nintenbattlesprites_259
+    21300520: nintenbattlesprites_260
+    21300522: nintenbattlesprites_261
+    21300524: nintenbattlesprites_262
+    21300526: nintenbattlesprites_263
+    21300528: nintenbattlesprites_264
+    21300530: nintenbattlesprites_265
+    21300532: nintenbattlesprites_266
+    21300534: nintenbattlesprites_267
+    21300536: nintenbattlesprites_268
+    21300538: nintenbattlesprites_269
+    21300540: nintenbattlesprites_270
+    21300542: nintenbattlesprites_271
+    21300544: nintenbattlesprites_272
+    21300546: nintenbattlesprites_273
+    21300548: nintenbattlesprites_274
+    21300550: nintenbattlesprites_275
+    21300552: nintenbattlesprites_276
+    21300554: nintenbattlesprites_277
+    21300556: nintenbattlesprites_278
+    21300558: nintenbattlesprites_279
+    21300560: nintenbattlesprites_280
+    21300562: nintenbattlesprites_281
+    21300564: nintenbattlesprites_282
+    21300566: nintenbattlesprites_283
+    21300568: nintenbattlesprites_284
+    21300570: nintenbattlesprites_285
+    21300572: nintenbattlesprites_286
+    21300574: nintenbattlesprites_287
+    21300576: nintenbattlesprites_288
+    21300578: nintenbattlesprites_289
+    21300580: nintenbattlesprites_290
+    21300582: nintenbattlesprites_291
+    21300584: nintenbattlesprites_292
+    21300586: nintenbattlesprites_293
+    21300588: nintenbattlesprites_294
+    21300590: nintenbattlesprites_295
+    21300592: nintenbattlesprites_296
+    21300594: nintenbattlesprites_297
+    21300596: nintenbattlesprites_298
+    21300598: nintenbattlesprites_299
+    21300600: nintenbattlesprites_300
+    21300602: nintenbattlesprites_301
+    21300604: nintenbattlesprites_302
+    21300606: nintenbattlesprites_303
+    21300608: nintenbattlesprites_304
+    21300610: nintenbattlesprites_305
+    21300612: nintenbattlesprites_306
+    21300614: nintenbattlesprites_307
+    21300616: nintenbattlesprites_308
+    21300618: nintenbattlesprites_309
+    21300620: nintenbattlesprites_310
+    21300622: nintenbattlesprites_311
+    21300624: nintenbattlesprites_312
+    21300626: nintenbattlesprites_313
+    21300628: nintenbattlesprites_314
+    21300630: nintenbattlesprites_315
+    21300632: nintenbattlesprites_316
+    21300634: nintenbattlesprites_317
+    21300636: nintenbattlesprites_318
+    21300638: nintenbattlesprites_319
+    21300640: nintenbattlesprites_320
+    21300642: nintenbattlesprites_321
+    21300644: nintenbattlesprites_322
+    21300646: nintenbattlesprites_323
+    21300648: nintenbattlesprites_324
+    21300650: nintenbattlesprites_325
+    21300652: nintenbattlesprites_326
+    21300654: nintenbattlesprites_327
+    21300656: nintenbattlesprites_328
+    21300658: nintenbattlesprites_329
+    21300660: nintenbattlesprites_330
+    21300662: nintenbattlesprites_331
+    21300664: nintenbattlesprites_332
+    21300666: nintenbattlesprites_333
+    21300668: nintenbattlesprites_334
+    21300670: nintenbattlesprites_335
+    21300672: nintenbattlesprites_336
+    21300674: nintenbattlesprites_337
+    21300676: nintenbattlesprites_338
+    21300678: nintenbattlesprites_339
+    21300680: nintenbattlesprites_340
+    21300682: nintenbattlesprites_341
+    21300684: nintenbattlesprites_342
+    21300686: nintenbattlesprites_343
+    21300688: nintenbattlesprites_344
+    21300690: nintenbattlesprites_345
+    21300692: nintenbattlesprites_346
+    21300694: nintenbattlesprites_347
+    21300696: nintenbattlesprites_348
+    21300698: nintenbattlesprites_349
+    21300700: nintenbattlesprites_350
+    21300702: nintenbattlesprites_351
+    21300704: nintenbattlesprites_352
+    21300706: nintenbattlesprites_353
+    21300708: nintenbattlesprites_354
+    21300710: nintenbattlesprites_355
+    21300712: nintenbattlesprites_356
+    21300714: nintenbattlesprites_357
+    21300716: nintenbattlesprites_358
+    21300718: nintenbattlesprites_359
+    21300720: nintenbattlesprites_360
+    21300722: nintenbattlesprites_361
+    21300724: nintenbattlesprites_362
+    21300726: nintenbattlesprites_363
+    21300728: nintenbattlesprites_364
+    21300730: nintenbattlesprites_365
+    21300732: nintenbattlesprites_366
+    21300734: nintenbattlesprites_367
+    21300736: nintenbattlesprites_368
+    21300738: nintenbattlesprites_369
+    21300740: nintenbattlesprites_370
+    21300742: nintenbattlesprites_371
+    21300744: nintenbattlesprites_372
+    21300746: nintenbattlesprites_373
+    21300748: nintenbattlesprites_374
+    21300750: nintenbattlesprites_375
+    21300752: nintenbattlesprites_376
+    21300754: nintenbattlesprites_377
+    21300756: nintenbattlesprites_378
+    21300758: nintenbattlesprites_379
+    21300760: nintenbattlesprites_380
+    21300762: nintenbattlesprites_381
+    21300764: nintenbattlesprites_382
+    21300766: nintenbattlesprites_383
+    21300768: nintenbattlesprites_384
+    21300770: nintenbattlesprites_385
+    21300772: nintenbattlesprites_386
+    21300774: nintenbattlesprites_387
+    21300776: nintenbattlesprites_388
+    21300778: nintenbattlesprites_389
+    21300780: nintenbattlesprites_390
+    21300782: nintenbattlesprites_391
+    21300784: nintenbattlesprites_392
+    21300786: nintenbattlesprites_393
+    21300788: nintenbattlesprites_394
+    21300790: nintenbattlesprites_395
+    21300792: nintenbattlesprites_396
+    21300794: nintenbattlesprites_397
+    21300796: nintenbattlesprites_398
+    21300798: nintenbattlesprites_399
+    21300800: nintenbattlesprites_400
+    21300802: nintenbattlesprites_401
+    21300804: nintenbattlesprites_402
+    21300806: nintenbattlesprites_403
+    21300808: nintenbattlesprites_404
+    21300810: nintenbattlesprites_405
+    21300812: nintenbattlesprites_406
+    21300814: nintenbattlesprites_407
+    21300816: nintenbattlesprites_408
+    21300818: nintenbattlesprites_409
+    21300820: nintenbattlesprites_410
+    21300822: nintenbattlesprites_411
+    21300824: nintenbattlesprites_412
+    21300826: nintenbattlesprites_413
+    21300828: nintenbattlesprites_414
+    21300830: nintenbattlesprites_415
+    21300832: nintenbattlesprites_416
+    21300834: nintenbattlesprites_417
+    21300836: nintenbattlesprites_418
+    21300838: nintenbattlesprites_419
+    21300840: nintenbattlesprites_420
+    21300842: nintenbattlesprites_421
+    21300844: nintenbattlesprites_422
+    21300846: nintenbattlesprites_423
+    21300848: nintenbattlesprites_424
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nintenbattlesprites_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_12
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_13
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_14
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_15
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_16
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_17
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_19
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_20
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_21
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_22
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_23
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_24
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 984
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_29
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_32
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_35
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_37
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_38
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_39
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_40
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_41
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_42
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_43
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_44
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_45
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_46
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_47
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_48
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_49
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 924
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_51
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_54
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_56
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_58
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_59
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_60
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_62
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_64
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_65
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_66
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_67
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_68
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_69
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_70
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_71
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_72
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_73
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_74
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 864
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_76
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_77
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_78
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_79
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_80
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_81
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_82
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_83
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_84
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_85
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_86
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_87
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_88
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_89
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_90
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_91
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_92
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_93
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_94
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_95
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_96
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_97
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_98
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_99
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 804
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_100
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_101
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_102
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_103
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_104
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_105
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_106
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_107
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_108
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_109
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_110
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_112
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_113
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_114
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_115
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_116
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_117
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_118
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_119
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_120
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_121
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_122
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_123
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_124
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 744
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_125
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_126
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_127
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_128
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_129
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_130
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_131
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_132
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_133
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_134
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_135
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_136
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_137
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_138
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_139
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_140
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_141
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_142
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_143
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_144
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_145
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_146
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_147
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_148
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_149
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 684
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_150
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_151
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_152
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_153
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_154
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_155
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_156
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_157
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_158
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_159
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_160
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_161
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_162
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_163
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_164
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_165
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_166
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_167
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_168
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_169
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_170
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_171
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_172
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_173
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_174
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 624
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_175
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_176
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_177
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_178
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_179
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_180
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_182
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_183
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_184
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_185
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_186
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_187
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_188
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_189
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_190
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_191
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_192
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_193
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_194
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_195
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_196
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_197
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_198
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_199
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 564
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_200
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_201
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_202
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_203
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_204
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_205
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_206
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_207
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_208
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_209
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_210
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_211
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_212
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_213
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_214
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_215
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_216
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_217
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_218
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_219
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_220
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_221
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_222
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_223
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_224
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 504
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_225
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_226
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_227
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_228
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_229
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_230
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_231
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_232
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_233
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_234
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_235
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_236
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_237
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_238
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_239
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_240
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_241
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_242
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_243
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_244
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_245
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_246
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_247
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_248
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_249
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 444
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_250
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_251
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_252
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_253
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_254
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_255
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_256
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_257
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_258
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_259
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_260
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_261
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_262
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_263
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_264
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_265
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_266
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_267
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_268
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_269
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_270
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_271
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_272
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_273
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_274
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 384
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_275
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_276
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_277
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_278
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_279
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_280
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_281
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_282
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_283
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_284
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_285
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_286
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_287
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_288
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_289
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_290
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_291
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_292
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_293
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_294
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_295
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_296
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_297
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_298
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_299
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 324
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_300
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_301
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_302
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_303
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_304
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_305
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_306
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_307
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_308
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_309
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_310
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_311
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_312
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_313
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_314
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_315
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_316
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_317
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_318
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_319
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_320
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_321
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_322
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_323
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_324
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_325
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_326
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_327
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_328
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_329
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_330
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_331
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_332
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_333
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_334
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_335
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_336
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_337
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_338
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_339
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_340
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_341
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_342
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_343
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_344
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_345
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_346
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_347
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_348
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_349
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 204
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_350
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_351
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_352
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_353
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_354
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_355
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_356
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_357
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_358
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_359
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_360
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_361
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_362
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_363
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_364
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_365
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_366
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_367
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_368
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_369
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_370
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_371
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_372
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_373
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_374
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 144
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_375
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_376
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_377
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_378
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_379
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_380
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_381
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_382
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_383
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_384
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_385
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_386
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_387
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_388
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_389
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_390
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_391
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_392
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_393
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_394
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_395
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_396
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_397
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_398
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_399
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 84
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_400
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_401
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_402
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_403
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_404
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_405
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_406
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_407
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_408
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_409
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_410
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_411
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_412
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_413
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_414
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_415
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_416
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_417
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_418
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_419
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_420
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_421
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_422
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_423
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nintenbattlesprites_424
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 24
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
